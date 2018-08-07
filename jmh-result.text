@@ -1,0 +1,4 @@
+Benchmark                       Mode  Cnt       Score       Error  Units
+MapperBenchmark.testMapStruct  thrpt    5  674230.936 ± 76341.511  ops/s
+MapperBenchmark.testOrika      thrpt    5  186151.468 ± 14110.213  ops/s
+MapperBenchmark.testSelma      thrpt    5  234529.708 ±  8340.062  ops/s
